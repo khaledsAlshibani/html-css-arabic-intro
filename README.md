@@ -1,6 +1,4 @@
-<style>body {text-align: right;} pre,code{direction: ltr;text-align: left;}</style>
-
-<div dir="rtl">
+<div dir="rtl" style="text-align: right;">
 
 # مقدمة للغات الويب  بالعربي
 

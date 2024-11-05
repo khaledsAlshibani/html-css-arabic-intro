@@ -1,5 +1,3 @@
-<style>body {text-align: right;} pre,code{direction: ltr;text-align: left;}</style>
-
 <div dir="rtl">
 
 <h1><code>&lt;body&gt;</code></h1>

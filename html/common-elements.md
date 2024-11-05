@@ -1,5 +1,3 @@
-<style>body {text-align: right;} pre,code{direction: ltr;text-align: left;}</style>
-
 <div dir="rtl">
 
 <h1>العناصر الأساسية</h1>
@@ -27,5 +25,5 @@
 
 ---
 
-- (عناصر head)[head-elements.md]
-- (عناصر body)[body-elements.md]
+- [عناصر head](head-elements.md)
+- [عناصر body](body-elements.md)
