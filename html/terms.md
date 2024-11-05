@@ -1,3 +1,5 @@
+<style>body {text-align: right;} pre,code{direction: ltr;text-align: left;}</style>
+
 <div dir="rtl">
 
 <h1>بعض المصطلحات المهمة في لغة HTML</h1>
