@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" style="text-align: right;">
 
 <h1>العناصر الأساسية</h1>
 
@@ -27,3 +27,5 @@
 
 - [عناصر head](head-elements.md)
 - [عناصر body](body-elements.md)
+
+</div>

@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" style="text-align: right;">
 
 <h1>بعض المصطلحات المهمة في لغة HTML</h1>
 
